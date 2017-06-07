@@ -1,9 +1,4 @@
-H# Baymax
-AFAF
-AFASGRHRHB
-ASGSDGHRTJEDR
-GSGSG
-SD
-GA
-G
-ASGFDREA
+# menbers#
+任钰  2016110107 茅以升学院机械专业
+卞梦奇 2016110140 茅以升学院信息专业
+李航瑛
