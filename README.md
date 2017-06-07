@@ -24,4 +24,6 @@
 
 没有像别的队伍那样准备充分的想法和充分的研究，我们只是根据课程中的知识做客一个很普通的灯。我们使用了尽可能多的功能，加了显示屏，加了蓝牙控制，调节出不同模式的RGB色彩比例。显示屏上则是现实灯的使用时间。
 
-！[Image text]
+![new image - xxiga.jpg](https://ooo.0o0.ooo/2017/06/07/59381aa1af62d.jpg)
+![new image - q1mzs.jpg](https://ooo.0o0.ooo/2017/06/07/59381acf96d7b.jpg)
+![new image - ly3ha.jpg](https://ooo.0o0.ooo/2017/06/07/59381af108814.jpg)
