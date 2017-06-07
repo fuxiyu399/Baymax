@@ -22,4 +22,4 @@
 
 ### Introduction if our product ----Table lamp
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+没有像别的队伍那样准备充分的想法和充分的研究，我们只是根据课程中的知识做客一个很普通的灯。我们使用了尽可能多的功能，加了显示屏，加了蓝牙控制，调节出不同模式的RGB色彩比例。显示屏上则是现实灯的使用时间。
