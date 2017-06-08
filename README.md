@@ -37,6 +37,8 @@
 而且，在这次比赛中，我们几乎全部成功完成了设想的作品，而且还是提前一段时间完成的，这让我们团队中的每个人都非常高兴。
 在这次比赛后，我们进行了交流，感觉我们以后这种活动就是要大胆参加，不要畏首畏尾，在参加中增长经验，发现缺点，这样，才能更快的提升。
 
+
+
 ![new image - cscrf.jpg](https://ooo.0o0.ooo/2017/06/07/59381cda5c8d4.jpg)
 ![new image - xxiga.jpg](https://ooo.0o0.ooo/2017/06/07/59381aa1af62d.jpg)
 ![new image - q1mzs.jpg](https://ooo.0o0.ooo/2017/06/07/59381acf96d7b.jpg)
