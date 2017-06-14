@@ -47,6 +47,8 @@
 
 在这次比赛后，我们进行了交流，感觉我们以后这种活动就是要大胆参加，不要畏首畏尾，在参加中增长经验，发现缺点，这样，才能更快的提升。
 
+### My(renyu) feeling of this subject
+
 
 
 ![new image - cscrf.jpg](https://ooo.0o0.ooo/2017/06/07/59381cda5c8d4.jpg)
